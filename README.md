@@ -1,6 +1,6 @@
 # HTMl-Site
 - Simple HTML and CSS website
-- Hosted on Github Pages -https://kuria-byte.github.io/HTMl-Site/
+- Hosted @ -https://kuria-byte.github.io/HTMl-Site/
 - The aim is to know how different HTML elements can be used in Web development.
 ## About
 - This was one of my first websites once I got my hands on HTML and CSS.
@@ -16,7 +16,7 @@
 - HTML hover
 - Hoverable Dropdown - https://www.w3schools.com/howto/howto_css_dropdown.asp
 - File Upload Button - https://www.w3schools.com/howto/howto_html_file_upload_button.asp
-- mailto
+- href mailto
 
 ### Reference
 - https://www.w3schools.com/html/default.asp
