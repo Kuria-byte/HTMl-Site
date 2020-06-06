@@ -1,8 +1,10 @@
 # HTMl-Site
-Simple HTML and CSS website
-The aim is to know how different HTML elements can be used in Web development.
+- Simple HTML and CSS website
+- Hosted on Github Pages -https://kuria-byte.github.io/HTMl-Site/
+- The aim is to know how different HTML elements can be used in Web development.
 ## About
-This was one of my first websites once I got my hands on HTML and CSS and I wanted to showcase my skills ;)
+- This was one of my first websites once I got my hands on HTML and CSS.
+- I wanted to showcase my skills to the world  ;)
 ![my html](https://user-images.githubusercontent.com/61579772/83939699-93743b80-a811-11ea-90d7-4910fdb39a16.jpg)
 
 
