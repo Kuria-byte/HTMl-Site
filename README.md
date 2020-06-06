@@ -1,8 +1,8 @@
 # HTMl-Site
 Simple HTML and CSS website
-## About
 The aim is to know how different HTML elements can be used in Web development.
-This was one of my first websites once I got my hands on HTML.
+## About
+This was one of my first websites once I got my hands on HTML and CSS
 ![my html](https://user-images.githubusercontent.com/61579772/83939699-93743b80-a811-11ea-90d7-4910fdb39a16.jpg)
 
 
