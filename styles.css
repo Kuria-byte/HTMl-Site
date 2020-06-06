@@ -1,0 +1,32 @@
+  body{
+        background-color:#EAF6F6;
+        align-items: center;
+        text-align: center;
+
+  }
+  hr{
+
+      border-style:dotted none none;
+      border-color:grey;
+      width:5%;
+      border-width:5px;
+  }
+  h1:hover
+  {
+     color:#2c003e;
+     color:#41aaa8;
+
+  }
+
+h2{
+  color:#41aaa8;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+a:hover {
+  background-color: gold;
+}
